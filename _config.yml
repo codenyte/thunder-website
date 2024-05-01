@@ -37,49 +37,49 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : 🏡 Communities & Users
+  - title                                 : Communities & Users
     description                           : "<b>•</b> Browse general feeds (All / Local / Subscribed) <br>
                                              <b>•</b> View, subscribe, favorite, and block communities <br>
                                              <b>•</b> View user posts/comments, and block unwanted users"
-    fontawesome_icon_name                 : magic
+    emoji                                 : "🏡"
     
-  - title                                 : 🌎 Instances
+  - title                                 : Instances
     description                           : "<b>•</b> View instance information and version <br>
                                              <b>•</b> Block unwanted instances (on supported instances)"
-    fontawesome_icon_name                 : mobile
+    emoji                                 : "🌎"
 
-  - title                                 : 🔎 Search
+  - title                                 : Search
     description                           : "<b>•</b> Show trending communities on the current instance <br>
                                              <b>•</b> Search for communities, users, posts and comments <br>
                                              <b>•</b> Apply advanced search filters (sort, feed, community, creator)"
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : "🔎"
 
-  - title                                 : 🗒️ Posts & Comments
+  - title                                 : Posts & Comments
     description                           : "<b>•</b> Create and edit posts and comments <br>
                                             <b>•</b> Vote, save, and share posts and comments <br>
                                             <b>•</b> Customize swipe actions for posts and comments <br>
                                             <b>•</b> Filter posts based on keywords"
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : "🗒️"
 
-  - title                                 : 🔑 Accounts
+  - title                                 : Accounts
     description                           : "<b>•</b> View profile information (posts/comments/saved) <br>
                                             <b>•</b> View notifications including replies, mentions, and private messages <br>
                                             <b>•</b> Synced account settings (show read posts, comment scores, bot accounts) <br>
                                             <b>•</b> Support for multiple accounts, and guest accounts on different instances"
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : "🔑"
   
-  - title                                 : 🎨 Customization
+  - title                                 : Customization
     description                           : "<b>•</b> Support for Material You theming (on applicable devices) <br>
                                              <b>•</b> Support for light/dark/OLED/system mode, and preset accent colors <br>
                                              <b>•</b> Custom font scaling of content <br>
                                              ****• Customize and preview post/comment appearance (compact/card)"
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : "🎨"
 
-  - title                                 : 🎉 Extras
+  - title                                 : Extras
     description                           : "<b>•</b> Import and export app settings <br>
                                              <b>•</b> In-app update notifications for new GitHub releases <br>
                                              <b>•</b> Language support via community translations (Weblate)"
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : "🎉"
   
   - title                                 : # New Feature Title
     description                           : # New Feature Description
