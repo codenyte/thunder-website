@@ -20,16 +20,17 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+your_name                                 : Hamlet Jiang Su                                
+your_link                                 : https://github.com/hjiangsu
+your_city                                 : Canada                                
+email_address                             : hamlet.jiangsu@outlook.com
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+instagram_username                        :
+twitter_username                          :
+github_username                           : hjiangsu
 youtube_username                          :
-mastodon_link                             : https://mastodon.social/@ebaehr
+# linkedin_username                         : hjiangsu
+mastodon_link                             :
 
 
 
