@@ -72,7 +72,7 @@ features                                  :
     description                           : "<b>•</b> Support for Material You theming (on applicable devices) <br>
                                              <b>•</b> Support for light/dark/OLED/system mode, and preset accent colors <br>
                                              <b>•</b> Custom font scaling of content <br>
-                                             ****• Customize and preview post/comment appearance (compact/card)"
+                                             <b>•</b> Customize and preview post/comment appearance (compact/card)"
     emoji                                 : "🎨"
 
   - title                                 : Extras
