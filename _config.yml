@@ -38,47 +38,47 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : 🏡 Communities & Users
-    description                           : "• Browse general feeds (All / Local / Subscribed) <br>
-                                             • View, subscribe, favorite, and block communities <br>
-                                             • View user posts/comments, and block unwanted users"
+    description                           : "**•** Browse general feeds (All / Local / Subscribed) <br>
+                                             **•** View, subscribe, favorite, and block communities <br>
+                                             **•** View user posts/comments, and block unwanted users"
     fontawesome_icon_name                 : magic
     
   - title                                 : 🌎 Instances
-    description                           : "• View instance information and version <br>
-                                             • Block unwanted instances (on supported instances)"
+    description                           : "**•** View instance information and version <br>
+                                             **•** Block unwanted instances (on supported instances)"
     fontawesome_icon_name                 : mobile
 
   - title                                 : 🔎 Search
-    description                           : "• Show trending communities on the current instance <br>
-                                             • Search for communities, users, posts and comments <br>
-                                             • Apply advanced search filters (sort, feed, community, creator)"
+    description                           : "**•** Show trending communities on the current instance <br>
+                                             **•** Search for communities, users, posts and comments <br>
+                                             **•** Apply advanced search filters (sort, feed, community, creator)"
     fontawesome_icon_name                 : play-circle
 
   - title                                 : 🗒️ Posts & Comments
-    description                           : "• Create and edit posts and comments <br>
-                                            • Vote, save, and share posts and comments <br>
-                                            • Customize swipe actions for posts and comments <br>
-                                            • Filter posts based on keywords"
+    description                           : "**•** Create and edit posts and comments <br>
+                                            **•** Vote, save, and share posts and comments <br>
+                                            **•** Customize swipe actions for posts and comments <br>
+                                            **•** Filter posts based on keywords"
     fontawesome_icon_name                 : sync
 
   - title                                 : 🔑 Accounts
-    description                           : "• View profile information (posts/comments/saved) <br>
-                                            • View notifications including replies, mentions, and private messages <br>
-                                            • Synced account settings (show read posts, comment scores, bot accounts) <br>
-                                            • Support for multiple accounts, and guest accounts on different instances"
+    description                           : "**•** View profile information (posts/comments/saved) <br>
+                                            **•** View notifications including replies, mentions, and private messages <br>
+                                            **•** Synced account settings (show read posts, comment scores, bot accounts) <br>
+                                            **•** Support for multiple accounts, and guest accounts on different instances"
     fontawesome_icon_name                 : adjust
   
   - title                                 : 🎨 Customization
-    description                           : "• Support for Material You theming (on applicable devices) <br>
-                                             • Support for light/dark/OLED/system mode, and preset accent colors <br>
-                                             • Custom font scaling of content <br>
-                                             • Customize and preview post/comment appearance (compact/card)"
+    description                           : "**•** Support for Material You theming (on applicable devices) <br>
+                                             **•** Support for light/dark/OLED/system mode, and preset accent colors <br>
+                                             **•** Custom font scaling of content <br>
+                                             ****• Customize and preview post/comment appearance (compact/card)"
     fontawesome_icon_name                 : star
 
   - title                                 : 🎉 Extras
-    description                           : "• Import and export app settings <br>
-                                             • In-app update notifications for new GitHub releases <br>
-                                             • Language support via community translations (Weblate)"
+    description                           : "**•** Import and export app settings <br>
+                                             **•** In-app update notifications for new GitHub releases <br>
+                                             **•** Language support via community translations (Weblate)"
     fontawesome_icon_name                 : arrow-alt-circle-down
   
   - title                                 : # New Feature Title
